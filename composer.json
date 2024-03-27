@@ -1,5 +1,5 @@
 {
-    "name": "schulzefelix/laravel-search-console",
+    "name": "zoidberg-ufo/laravel-search-console",
     "type": "library",
     "description": "A Laravel package to retrieve data from Google Search Console",
     "keywords": [
@@ -20,9 +20,9 @@
         }
     ],
     "require": {
-        "php": "^8.0.2",
+        "php": "^8.0.2|^8.1",
         "google/apiclient": "^2.0",
-        "illuminate/support": "^9.0",
+        "illuminate/support": "^9.0|^10.0",
         "symfony/cache": "^6.0"
 
     },
